@@ -1,0 +1,20 @@
+html,
+body {
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    color: #fff;
+    background-color: #0b0b0b;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 64px;
+}
